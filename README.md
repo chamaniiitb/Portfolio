@@ -1,3 +1,7 @@
+# Portfolio Website for Developer.  [live here] (https://chamaniiitb.netlify.app/)
+
+This is a simple react portfolio for a beginner developer.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
